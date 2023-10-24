@@ -1,0 +1,11 @@
+# Ignore migration files
+**/migrations/*.py
+**/migrations/*.pyc
+
+# Ignore SQLite database files
+*.sqlite3
+
+# Ignore the .env file
+.env
+
+/env
